@@ -19,7 +19,7 @@
           "localACLPrincipals": [],
           "@timestamp": "2018-06-29T06:54:09.023Z",
           "createdByLastName": "Sharma",
-         "name": "cartonImage.png",
+         "name": "carton.png",
           "readers": [
             "DDEDES",
             "YSNNFMEDJFDKJVDNRXLjAxQGFiYy5jb20=",
@@ -36,9 +36,9 @@
          "ec_s@organizationID": "abc",
           "contentLength-S3-content": 510573,
           "createdByOrganizationName": "bbcnIndia",
-          "path": "abc/ABC1/cartonImage.png",
+          "path": "abc/ABC1/carton.png",
           "state": 6,
-          "ec_s@name": "cartonImage.png",
+          "ec_s@name": "carton.png",
           "rootReaders": [
             "ofiuiffhifu"
           ],
@@ -69,7 +69,7 @@
           "localACLPrincipals": [],
           "@timestamp": "2018-06-29T06:54:09.023Z",
           "createdByLastName": "Sharma",
-         "name": "tedImage.png",
+         "name": "ted.png",
           "readers": [
             "DDEDES",
             "YSNNFMEDJFDKJVDNRXLjAxQGFiYy5jb20=",
@@ -86,9 +86,9 @@
          "ec_s@organizationID": "abc",
           "contentLength-S3-content": 510573,
           "createdByOrganizationName": "bbcnIndia",
-          "path": "abc/ABC1/tedImage.png",
+          "path": "abc/ABC1/ted.png",
           "state": 6,
-          "ec_s@name": "tedImage.png",
+          "ec_s@name": "ted.png",
           "rootReaders": [
             "ofiuiffhifu"
           ],
